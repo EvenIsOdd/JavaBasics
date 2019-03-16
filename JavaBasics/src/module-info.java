@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Jo
+ *
+ */
+module javaBasics {
+}
